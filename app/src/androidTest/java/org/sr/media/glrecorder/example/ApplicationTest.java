@@ -1,4 +1,4 @@
-package com.example.jianhua.glrecorder_android;
+package org.sr.media.glrecorder.example;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
